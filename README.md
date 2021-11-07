@@ -1,5 +1,6 @@
-﻿#Práctica 1 Inteligencia Artificial 21/22 
-##Elisa Coello Valverde
+# Práctica 1 Inteligencia Artificial 21/22 
+## Elisa Coello Valverde
+
 ![licencia: ](licencia.jpg)
 
 1. Problema elegido: Representación de las reglas del "tres en raya"
