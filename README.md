@@ -34,6 +34,7 @@
 	- Si el juego ha cargado correctamente deberá aparecer una pantalla como la siguiente:
 	![Carga archivo: ](manual1.png)
 	- Por defecto esta programado para que empiece automaticamente por el jugador O, pero si se desea cambiar el orden, basta con escribir cambiar_turno. y para comprobar a quien le toca mover escribir turno(X). En esta imagen se ve como empieza por defecto el jugador O, pero lo cambiamos para que empiece el jugador X. Importante, todas los comandos que se introduzcan en la consola de SWI-Prolog deben acabar con un punto.
+	
 	![Carga archivo: ](manual_2.png)
 	- Una vez hayamos decidido que jugador empieza, comenzamos la partida. 
 	- En este manual empezará la partida el jugador O, como está programado por defecto, sin tocar nada.
